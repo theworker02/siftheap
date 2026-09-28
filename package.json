@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/siftheap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sift numeric heap values, ranges, and human-readable units.",
+  "bin": {
+    "siftheap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/siftheap.git"
+  },
+  "homepage": "https://theworker02.github.io/siftheap/",
+  "keywords": [
+    "sift",
+    "heap",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
